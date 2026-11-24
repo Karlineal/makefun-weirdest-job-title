@@ -6,6 +6,7 @@ program's only job is to leave the one-line entry in /output/entry.txt.
 
 import pathlib
 
+# The entry: one invented job title, 49 characters, well under the 60 the gate allows.
 TITLE = "Chief Vibes Auditor, Reporting Directly to a Duck"
 
 
